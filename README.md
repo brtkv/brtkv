@@ -1,7 +1,7 @@
 ### hello world 👋
 
 [![MasterHead](https://camo.githubusercontent.com/dcba36fec68f7f3cc9663d2c09d233204008e4323bbfdbb7124d6c5bb9e3889c/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966)]()
-<h1 align="center">Hi 👋, I'm Diana Bartkiv</h1>
+<h1 align="center">Hi 👋, I'm Diana </h1>
 <h3 align="center">Passionate web developer from Ukraine with a focus on front-end development, specializing in responsive web design and actively exploring the possibilities of React.</h3>
 <img align="right" alt="codinggirl" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
