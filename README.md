@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently developing my skills in **js,html,css** ;
 - 🌱 I’m currently learning **React,Redux** ;
-- 📫 How to reach me **bartkivbartkiv4@gmail.com** ;
+- 📫 How to reach me **drobot.di1@gmail.com** ;
 
 - ⚡My interests **I am driven by a deep passion for programming and continuous self-improvement. I am constantly learning to become an experienced developer. I find tranquility in meditation and enjoy spending time with video games. Alongside mastering web development, I dedicate myself to learning English and German languages. Books fuel my imagination, while coffee fuels my creativity. Order and precision are my guiding principles, reflecting in both my physical space and my code.**
 
